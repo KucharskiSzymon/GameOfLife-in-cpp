@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1601030896 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\array.cpp
+	"array.h"
+
+1601031030 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\array.h
+	"cell.h"
+
+1601031010 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\cell.h
+
+1601030860 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\cell.cpp
+	<iostream>
+	"cell.h"
+
+1601031241 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\game.cpp
+	"game.h"
+
+1601030991 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\game.h
+	"Array.h"
+
+1601030788 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\main.cpp
+	"gameTXT.h"
+
+1601030962 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\gametxt.h
+	"game.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1601031420 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt\gametxt.cpp
+	"gameTXT.h"
+
+1601114362 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\array.cpp
+	"array.h"
+
+1601109445 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\array.h
+	"cell.h"
+
+1601107908 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\cell.h
+
+1601114402 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\cell.cpp
+	<iostream>
+	"cell.h"
+
+1601114271 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\game.cpp
+	<iostream>
+	"game.h"
+
+1601114675 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\game.h
+	"array.h"
+
+1601114593 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\gametxt.cpp
+	<iostream>
+	"gameTXT.h"
+
+1601108592 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\gametxt.h
+	"game.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1601114626 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\main.cpp
+	<iostream>
+	"gameTXT.h"
+
+1601114362 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\array.cpp
+	"array.h"
+
+1601109445 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\array.h
+	"cell.h"
+
+1601107908 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\cell.h
+
+1601114402 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\cell.cpp
+	<iostream>
+	"cell.h"
+
+1601114271 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\game.cpp
+	<iostream>
+	"game.h"
+
+1601114675 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\game.h
+	"array.h"
+
+1601114593 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\gametxt.cpp
+	<iostream>
+	"gameTXT.h"
+
+1601108592 c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\gametxt.h
+	"game.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1601114626 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\gameoflife_txt1 — kopia\nowy folder\main.cpp
+	<iostream>
+	"gameTXT.h"
+
+1601114362 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\array.cpp
+	"array.h"
+
+1601109445 c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\array.h
+	"cell.h"
+
+1601107908 c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\cell.h
+
+1601114402 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\cell.cpp
+	<iostream>
+	"cell.h"
+
+1601114271 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\game.cpp
+	<iostream>
+	"game.h"
+
+1601114675 c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\game.h
+	"array.h"
+
+1601114593 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\gametxt.cpp
+	<iostream>
+	"gameTXT.h"
+
+1601108592 c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\gametxt.h
+	"game.h"
+	<iostream>
+	<fstream>
+	<windows.h>
+
+1601114626 source:c:\users\szymon\desktop\semesrt4\gierki obiektowe\zycie\main.cpp
+	<iostream>
+	"gameTXT.h"
+
